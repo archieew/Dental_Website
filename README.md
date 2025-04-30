@@ -13,7 +13,8 @@ A dynamic dental clinic website developed using HTML, CSS, JavaScript, and MySQL
 ## 💻 Technologies Used
 
 - HTML5  
-- CSS3  
+- CSS3
+- PHP
 - JavaScript  
 - MySQL (via phpMyAdmin)  
 - XAMPP (Apache + MySQL)

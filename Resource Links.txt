@@ -1,0 +1,8 @@
+Font Awesome
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+
+Bootsrap
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/css/bootstrap.min.css
+
+Import CSS
+https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap
